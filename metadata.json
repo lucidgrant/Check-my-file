@@ -1,0 +1,6 @@
+{
+  "name": "Check MyFile",
+  "description": "Contrôle qualité automatisé et prévol des fichiers PDF avant impression professionnelle : vérification du fond perdu, marges de sécurité, taille des textes, polices et transparences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
